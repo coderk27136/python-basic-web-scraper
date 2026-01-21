@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python Basic Web Scraper
 
 A simple, beginner-friendly Python script that scrapes book titles, prices, and ratings from the practice site books.toscrape.com and saves the data to a CSV file.
@@ -18,3 +19,7 @@ A simple, beginner-friendly Python script that scrapes book titles, prices, and 
 2. Install dependencies: pip install requests beautifulsoup4
 3. Run the script: python scraper.py
 
+=======
+# python-basic-web-scraper
+"Simple Python web scraper using Requests and BeautifulSoup - extracts data to CSV for learning/portfolio".
+>>>>>>> 26de7534def23ccb14c57f7e543123f9e005cd83
